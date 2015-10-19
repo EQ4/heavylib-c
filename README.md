@@ -1,3 +1,3 @@
-# Heavy DSP Library
+# Heavy DSP
 
-Collection of low level DSP modules written in C
+These are the static files used by heavy to generate code
